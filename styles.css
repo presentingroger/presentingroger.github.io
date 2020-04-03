@@ -216,11 +216,11 @@ h1.name {
 
 .skill-level {
 	display: inline-block;
-	max-width: 160px;
+	max-width: 1600px;
 }
 
 .skill-level span {
-	font-size: 35px;
+	font-size: 22px;
 	font-weight: 300;
 	color: #5B6A9A;
 	vertical-align: top;
