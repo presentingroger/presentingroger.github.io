@@ -194,15 +194,15 @@ h1.name {
 }
 
 .card {
-	width: 47.9%;
-	height: 200px;
+	width: 28%;
+	height: 100px;
 	background-color: #EEF0F7;
 	display: inline-block;
-	margin: 7px 5px;
+	margin: 3px 2px;
 	vertical-align: top;
-	border-radius: 10px;
+	border-radius: 15px;
 	text-align: center;
-	padding-top: 50px
+	padding-top: 20px
 }
 
 .card-active , .card:hover{
@@ -218,16 +218,16 @@ h1.name {
 	display: inline-block;
 	max-width: 1600px;
 }
-
+/* "download" in Roger's website:*/
 .skill-level span {
 	font-size: 22px;
 	font-weight: 300;
 	color: #5B6A9A;
 	vertical-align: top;
 }
-
+/* "resume" in Roger's website:*/
 .skill-level h2 {
-	font-size: 95px;
+	font-size: 60px;
 	font-weight: 300;
 	display: inline-block;
 	vertical-align: top;
